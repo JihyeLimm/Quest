@@ -10,7 +10,6 @@
 PRT(PeerReviewTemplate)
 
 - [O] 코드가 정상적으로 동작하고 주어진 문제를 해결했나요?
-- 
 ```
 python
 #위 항목에 대한 근거 작성 필수
